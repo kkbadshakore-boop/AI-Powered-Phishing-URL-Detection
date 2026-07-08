@@ -425,6 +425,10 @@ This project is licensed under the MIT License.
 - 💻 GitHub: https://github.com/yourusername
 - 📧 Email: your@email.com
 
+    ## 🌐 Live Demo
+
+🚀 https://scary-blush-ojcgfxfy.edgeone.dev/public/index.html
+
 ---
 
 # 🌟 Support
